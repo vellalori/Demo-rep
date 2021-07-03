@@ -1,2 +1,2 @@
 # Demo-rep
-Demo rep description
+Demo repo description
